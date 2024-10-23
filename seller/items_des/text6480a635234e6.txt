@@ -1,0 +1,38 @@
+<h2 class="pdp-mod-section-title outer-title" data-spm-anchor-id="a2a0e.pdp.0.i0.6097swAtswAtjX">Product details of 18W Led Light Bulb</h2>
+<div class="pdp-product-detail" data-spm="product_detail">
+<div class="pdp-product-desc ">
+<div class="html-content pdp-product-highlights">
+<ul class="">
+<li class="">Save on our wide assortment of energy-efficient LED bulbs</li>
+<li class="">No lead or mercury means easy and environmentally safe disposal</li>
+<li class="">Very long life - Rated to still put out 70% as much light after 15,000 hours of operation as it does when brand new</li>
+<li class="">Rated for use in enclosed fixtures</li>
+<li class="">Directional lighting that delivers maximum lumens onto the floor</li>
+<li class="">Shatter resistant</li>
+<li class="">Plastic lens helps to minimize glare and increase overall lamp performance</li>
+<li class="">Saves over 90% on electricity bill of lighting.</li>
+<li class="">Super long service lifespan up to 40,000 hours.</li>
+<li class="">Thoroughly solve your trouble of frequent replacing bulbs.</li>
+<li class="">International standard base, fits to all light fixture.</li>
+<li class="">More protective your eyes.</li>
+</ul>
+</div>
+<div class="html-content detail-content">&nbsp;</div>
+<div class="pdp-mod-specification">
+<h2 class="pdp-mod-section-title ">Specifications of 18W Led Light Bulb</h2>
+<div class="pdp-general-features">
+<ul class="specification-keys">
+<li class="key-li"><span class="key-title">Brand</span>
+<div class="html-content key-value">gold star light</div>
+</li>
+<li class="key-li"><span class="key-title">SKU</span>
+<div class="html-content key-value">164936055_LK-1113079007</div>
+</li>
+</ul>
+</div>
+<div class="box-content"><span class="key-title">What&rsquo;s in the box</span>
+<div class="html-content box-content-html">LED LIGHT BULBSS</div>
+</div>
+</div>
+</div>
+</div>
