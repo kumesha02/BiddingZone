@@ -1,0 +1,140 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+}
+
+.bg-dark_crystal {
+    background-image: url('img/backgrounds/bg-img-dark_crystal.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.bg-milckyway1 {
+    background-image: url('img/backgrounds/bg-img-milkyway.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.bg-milckyway2 {
+    background-image: url('img/backgrounds/bg-img-milkyway2.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.bg-red {
+    background-image: url('img/backgrounds/bg-img-red_tesselation.jpg');
+    background-repeat: repeat;
+    background-size: auto;
+}
+
+.bg-purple-blue {
+    background-image: url('img/backgrounds/bg-img-purple_blue_tesselation.jpeg');
+    background-repeat: repeat;
+    background-size: auto;
+}
+
+.bg-blue1 {
+    background-image: url('img/backgrounds/bg-img-blueway.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.bg-blue2 {
+    background-image: url('img/backgrounds/bg-img-blueway2.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.bg-pink-blue-tiles {
+    background-image: url('img/backgrounds/bg-img-blue&pink_tesselation.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.bg-orange-lines {
+    background-image: url('img/backgrounds/bg-img-orangelines_tesselation.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.bg-blue-lines {
+    background-image: url('img/backgrounds/bg-img-blue_verticle_lines.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.bg-grey-wall {
+    background-image: url('img/backgrounds/bg-img-grey_brick_wall.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.bg-blackish {
+    background-color: #e2e2e2c7;
+}
+
+.bg-white-hive {
+    background-image: url('img/backgrounds/bg-img-white_hive_tesselation.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.bg-trans {
+    background-color: #ffffff9a;
+}
+
+/* background images */
+
+/* Fonts */
+@font-face {
+    font-family: "dicovery";
+    src: url("fonts/DISCOVERY.ttf") format("truetype");
+}
+
+.dicovery {
+    font-family: dicovery;
+}
+
+@font-face {
+    font-family: "tillium";
+    src: url("fonts/Tiilium/TitilliumWeb-Light.ttf") format("truetype");
+}
+
+.tillium {
+    font-family: tillium;
+}
+
+/* Fonts */
+
+/* font shadow */
+.pf {
+    text-shadow: 1px 1px 1px black;
+    font-weight: bold;
+}
+
+/* font shadow */
+
+/* Nav bar Hover */
+@media (min-width:992px) {
+    .y:hover {
+        background-color: rgba(130, 130, 130, 0.2);
+        box-shadow: 0px 0px 0px 1px rgba(130, 130, 130, 0.2);
+        border-radius: 5px;
+        transition-duration: 0.3s;
+        cursor: pointer;
+    }
+}
+
+/* Nav bar Hover */
+
+/* ///////////////////New PRODUCTS PAGE CSS//////////////////// */
+
+
+
+/* ///////////////////New Cart PAGE CSS//////////////////// */
